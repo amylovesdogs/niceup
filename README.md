@@ -15,5 +15,7 @@
 * iPad (iOS)
 Nice-Up! works both online and offline, syncing up with the database when internet connectivity is re-established.
 
-## Nice-Up! is currently in the design phase. Any and all comments welcome!
+## Nice-Up! is currently in the design phase. 
+Checkout screen mock-ups in the mockups directory.
+Any and all comments welcome!
  
